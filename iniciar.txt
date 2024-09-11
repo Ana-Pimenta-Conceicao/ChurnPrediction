@@ -1,0 +1,6 @@
+Passos para rodar o Projeto:
+    1. Ativar o ambiente de virtual:
+        - .\venv\Scripts\activate
+
+    2. Execute o projeto:
+        - python app.py
